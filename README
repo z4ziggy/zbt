@@ -1,0 +1,4 @@
+zbt is simple BASH wrapper for Bluetooth tools & exploits, without any options.
+"Just run and enjoy" (tm). If you wish to change anything - it's as easy as
+editing a text file and running it again to your liking.
+

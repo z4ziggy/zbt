@@ -1,0 +1,139 @@
+2015/09/06 04:39:04: info: btscanner starting
+2015/09/06 04:39:06: info: btscanner starting
+2015/09/06 04:40:36: info: btscanner starting
+2015/09/06 04:41:40: info: btscanner starting
+2015/09/06 04:47:20: info: btscanner starting
+2015/09/06 04:47:34: info: threader_start::pthread_create(): created thread 1743742720
+2015/09/06 04:47:34: error: scan_reset_device(): unable to bring device 0 down: Operation not permitted
+2015/09/06 04:48:03: info: threader_reap::pthread_join(): joined thread 1743742720
+2015/09/06 04:48:03: info: btscanner shutting down
+2015/09/06 04:48:05: info: btscanner starting
+2015/09/06 04:48:08: info: threader_start::pthread_create(): created thread 1098778368
+2015/09/06 04:48:53: info: threader_reap::pthread_join(): joined thread 1098778368
+2015/09/06 04:48:53: info: btscanner shutting down
+2015/09/06 05:57:10: info: btscanner starting
+2015/09/06 05:57:26: info: threader_start::pthread_create(): created thread 59905792
+2015/09/06 05:57:26: error: scan_reset_device(): unable to bring device 0 down: Operation not permitted
+2015/09/06 05:58:08: info: threader_reap::pthread_join(): joined thread 59905792
+2015/09/06 05:58:17: info: btscanner shutting down
+2015/09/06 05:58:19: info: btscanner starting
+2015/09/06 05:58:51: info: btscanner shutting down
+2015/09/06 05:58:54: info: btscanner starting
+2015/09/06 05:58:56: info: threader_start::pthread_create(): created thread 941995776
+2015/09/06 05:58:56: error: scan_reset_device(): unable to bring device 0 down: Operation not permitted
+2015/09/06 05:59:25: info: threader_reap::pthread_join(): joined thread 941995776
+2015/09/06 05:59:25: info: btscanner shutting down
+2015/09/06 06:02:37: info: btscanner starting
+2015/09/06 06:02:39: info: threader_start::pthread_create(): created thread 1517020928
+2015/09/06 06:16:59: warning: scan_inquiry::hci_create_connection(): Cant create: Connection timed out
+2015/09/06 06:18:27: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 06:21:37: warning: scan_inquiry::hci_create_connection(): Cant create: Connection timed out
+2015/09/06 06:26:31: warning: scan_inquiry::hci_create_connection(): Cant create: Connection timed out
+2015/09/06 06:29:31: warning: scan_inquiry::hci_create_connection(): Cant create: Connection timed out
+2015/09/06 06:30:33: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 06:31:36: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 06:34:05: warning: scan_inquiry::hci_create_connection(): Cant create: Connection timed out
+2015/09/06 06:40:41: warning: scan_inquiry::hci_create_connection(): Cant create: Connection timed out
+2015/09/06 06:41:34: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 06:41:50: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 06:46:12: warning: scan_inquiry::hci_create_connection(): Cant create: Connection timed out
+2015/09/06 06:46:54: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:11:39: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:12:14: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:12:39: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:13:01: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:13:37: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:14:14: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:14:29: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:15:44: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:16:00: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:16:15: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:16:28: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:17:02: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:17:17: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:18:40: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:19:16: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:23:14: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:24:47: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:25:18: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:27:12: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:43:02: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:45:27: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:48:51: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:50:09: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:51:11: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:51:21: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 07:52:42: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 08:10:46: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 08:12:30: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 08:24:02: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 09:45:39: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 10:02:00: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 10:03:02: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 11:00:43: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 11:05:53: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 11:55:08: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 12:25:26: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 13:13:28: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 13:15:12: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 13:16:45: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 13:27:46: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 13:48:36: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 13:53:15: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 14:06:10: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 14:19:26: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 14:22:21: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 14:48:42: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 15:42:36: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:12:54: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:13:04: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:15:45: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:16:18: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:21:49: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:23:58: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:30:45: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:31:00: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:31:52: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:44:47: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:47:53: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:50:08: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 16:52:01: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 17:04:36: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 17:14:35: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 17:14:56: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 17:43:00: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 17:44:02: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 17:50:24: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 17:52:08: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 17:59:42: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:03:19: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:08:09: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:09:01: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:12:23: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:17:12: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:21:56: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:36:35: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:50:32: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:51:13: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 18:54:30: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 19:01:13: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 19:02:00: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 20:09:06: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 20:09:30: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 20:16:44: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 20:33:37: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 20:38:47: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 20:45:24: warning: scan_inquiry::hci_create_connection(): Cant create: Connection timed out
+2015/09/06 20:49:11: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 21:01:35: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 21:20:37: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 21:46:26: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 22:17:16: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 22:24:09: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 22:50:30: warning: scan_inquiry::hci_create_connection(): Cant create: Input/output error
+2015/09/06 23:00:00: info: threader_reap::pthread_join(): joined thread 1517020928
+2015/09/06 23:00:00: info: btscanner shutting down
+2015/09/06 23:37:22: info: btscanner starting
+2015/09/06 23:37:24: info: threader_start::pthread_create(): created thread 1249117952
+2015/09/06 23:43:26: info: threader_reap::pthread_join(): joined thread 1249117952
+2015/09/06 23:43:26: info: btscanner shutting down
